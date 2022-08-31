@@ -1,29 +1,35 @@
 {
-    "08312022": [
+    "20220831": [
         {
             "date": "Aug 31st, 2022",
             "eventname": "GRAD: Deposit deadline for completion within Summer 2022"
         }
     ],
-    "09022022": [
+    "20220901": [
+        {
+            "date": "September 1, 2022",
+            "eventname": "OSAP Confirmation of Enrollment Starts"
+        }
+    ],
+    "20220902": [
         {
             "date": "Sep 2nd, 2022",
             "eventname": "Concurrent Ed:  Orientation for Years 1 / 3 / 4 (Music)"
         }
     ],
-    "09042022": [
+    "20220904": [
         {
             "date": "Sep 4th, 2022 to Sep 10th, 2022",
             "eventname": "Welcome Week 2022 (Sep 4 - 10)"
         }
     ],
-    "09052022": [
+    "20220905": [
         {
             "date": "Sep 5th, 2022",
             "eventname": "Labour Day:  University Closed"
         }
     ],
-    "09062022": [
+    "20220906": [
         {
             "date": "Sep 6th, 2022",
             "eventname": "Nursing Year 3 Clinical Orientation (NURS 3542)"
@@ -41,13 +47,13 @@
             "eventname": "Law:  First Day of Fall Classes"
         }
     ],
-    "09072022": [
+    "20220907": [
         {
             "date": "Sep 7th, 2022",
             "eventname": "Nursing Year 2 Clinical Orientation  (NURS 2522)"
         }
     ],
-    "09082022": [
+    "20220908": [
         {
             "date": "Sep 8th, 2022",
             "eventname": "First Day of Fall 2022 Classes (excluding Law & Consecutive Ed)"
@@ -57,19 +63,19 @@
             "eventname": "Nursing Year 1 Program Orientation"
         }
     ],
-    "09092022": [
+    "20220909": [
         {
             "date": "Sep 9th, 2022",
             "eventname": "GRAD: Deadline for public posting of final oral defenses for Fall 2022 graduation"
         }
     ],
-    "09152022": [
+    "20220915": [
         {
             "date": "Sep 15th, 2022",
             "eventname": "GRAD: Deadline for students to submit for Format checking, for Phase I and for Fall 2022 graduation"
         }
     ],
-    "09162022": [
+    "20220916": [
         {
             "date": "Sep 16th, 2022",
             "eventname": "Apply to Graduate at Fall 2022 Convocation:  Final deadline"
@@ -79,7 +85,7 @@
             "eventname": "Last Day for Alternate Grading through Alternate Grade/Appeal method (Voluntarily Withdraw or Pass/No Pass) for Inter-Session/Summer 2022 courses (GRAD & UGRD)"
         }
     ],
-    "09192022": [
+    "20220919": [
         {
             "date": "Sep 19th, 2022",
             "eventname": "LAW:  Last Day to Add/Drop Fall Classes in LAW"
@@ -89,19 +95,25 @@
             "eventname": "GRAD: Final oral defense deadline for Fall Graduation 2022"
         }
     ],
-    "09212022": [
+    "20220921": [
         {
             "date": "Sep 21st, 2022",
             "eventname": "Academic Add/Drop for Fall 2022 (excluding Education and Law)"
         }
     ],
-    "09262022": [
+    "20220926": [
         {
             "date": "Sep 26th, 2022",
             "eventname": "GRAD: Deposit deadline for Phase I and for Fall 2022 graduation"
         }
     ],
-    "10052022": [
+    "20220930": [
+        {
+            "date": "September 30, 2022",
+            "eventname": "Law Student Award Applications Close"
+        }
+    ],
+    "20221005": [
         {
             "date": "Oct 5th, 2022",
             "eventname": "Financial Drop Date:  Fall 2022"
@@ -111,61 +123,85 @@
             "eventname": "GRAD: format checking deadline for Phase II"
         }
     ],
-    "10082022": [
+    "20221008": [
         {
             "date": "Oct 8th, 2022 to Oct 16th, 2022",
             "eventname": "Reading Week (Oct 8 - 16), except JD Law"
         }
     ],
-    "10102022": [
+    "20221010": [
         {
             "date": "Oct 10th, 2022",
             "eventname": "Thanksgiving Day:  University Closed"
         }
     ],
-    "10132022": [
+    "20221013": [
         {
             "date": "Oct 13th, 2022",
             "eventname": "GRAD: Phase II deposit deadline for Fall term 2022"
         }
     ],
-    "10142022": [
+    "20221014": [
         {
             "date": "Oct 14th, 2022 to Oct 15th, 2022",
             "eventname": "Fall 2022 Convocation"
+        },
+        {
+            "date": "October 14, 2022",
+            "eventname": "OSAP Application Deadline -Fall ONLY"
         }
     ],
-    "11072022": [
+    "20221031": [
+        {
+            "date": "October 31, 2022",
+            "eventname": "UWinAward Application/Profile Closes for majority of scholarships/awards"
+        },
+        {
+            "date": "October 31, 2022",
+            "eventname": "Continuation of Interest Free Status"
+        }
+    ],
+    "20221104": [
+        {
+            "date": "November 4, 2022",
+            "eventname": "OSAP Appeal Deadline - Fall Only"
+        },
+        {
+            "date": "November 4, 2022",
+            "eventname": "Part-Time OSAP Application Deadline - Fall"
+        }
+    ],
+    "20221107": [
         {
             "date": "Nov 7th, 2022 to Nov 11th, 2022",
             "eventname": "LAW:  Study Week for All Law Students (Nov 7 - 11)"
         }
     ],
-    "11162022": [
+    "20221116": [
         {
             "date": "Nov 16th, 2022",
             "eventname": "Last Day to Voluntarily Withdraw from Fall 2022 courses"
         }
     ],
-    "11212022": [
+    "20221121": [
         {
             "date": "Nov 21st, 2022 to Dec 16th, 2022",
             "eventname": "Education:  Practicum Block (Nov 21 - Dec 16)"
         }
     ],
-    "12022022": [
+    "20221202": [
         {
             "date": "Dec 2nd, 2022",
             "eventname": "LAW:  Last Day of Classes"
         }
     ],
-    "12052022": [
+    "20221205": [
         {
             "date": "Dec 5th, 2022 to Dec 19th, 2022",
             "eventname": "LAW:  Upper Year Exams (Dec 5 - 19)"
         }
     ],
-    "12072022": [
+    "20221207": [
         {
             "date": "Dec 7th, 2022",
             "eventname": "Last Day of Fall 2022 Classes  (excluding Law and Education)"
@@ -175,43 +211,49 @@
             "eventname": "LAW:  First Year Exams (Dec 7 - 14)"
         }
     ],
-    "12102022": [
+    "20221210": [
         {
             "date": "Dec 10th, 2022 to Dec 21st, 2022",
             "eventname": "Final Exams for Fall 2022 - Dec 10 - 21  (excluding Law and Education)"
         }
     ],
-    "12152022": [
+    "20221215": [
         {
             "date": "Dec 15th, 2022",
             "eventname": "Fees Due:  Winter 2023"
         }
     ],
-    "12192022": [
+    "20221219": [
         {
             "date": "Dec 19th, 2022 to Dec 22nd, 2022",
             "eventname": "Education:  Make up days / Portfolio Review / Advisory group reflection (Dec 19-22)"
         }
     ],
-    "12202022": [
+    "20221220": [
         {
             "date": "Dec 20th, 2022",
             "eventname": "LAW:  Alternate Final Exam Day for Law (ASC permission required)"
         }
     ],
-    "12222022": [
+    "20221221": [
+        {
+            "date": "December 21, 2022",
+            "eventname": "Confirmation of Enrolment begins"
+        }
+    ],
+    "20221222": [
         {
             "date": "Dec 22nd, 2022",
             "eventname": "Alternate Final Exam Day"
         }
     ],
-    "12232022": [
+    "20221223": [
         {
             "date": "Dec 23rd, 2022 to Jan 2nd, 2023",
             "eventname": "University Offices Closed for December Holiday recess (Dec 23 - Jan 2)"
         }
     ],
-    "01032023": [
+    "20230103": [
         {
             "date": "Jan 3rd, 2023",
             "eventname": "University Offices re-open after Holiday Break"
@@ -237,7 +279,7 @@
             "eventname": "LAW:  WLPS Week for Law I Students (Jan 3 - 6)"
         }
     ],
-    "01042023": [
+    "20230104": [
         {
             "date": "Jan 4th, 2023",
             "eventname": "Nursing Year 1 Clinical Orientation (NURS 1512)"
@@ -247,79 +289,107 @@
             "eventname": "Nursing Year 2 Clinical Orientation (NURS 2532)"
         }
     ],
-    "01052023": [
+    "20230105": [
         {
             "date": "Jan 5th, 2023",
             "eventname": "First Day of Winter 2023 Classes"
         }
     ],
-    "01132023": [
+    "20230113": [
         {
             "date": "Jan 13th, 2023",
             "eventname": "LAW:  Last day to Add/Drop Winter Classes in Law"
         }
     ],
-    "02012023": [
+    "20230201": [
         {
             "date": "Feb 1st, 2023",
             "eventname": "Financial Drop Date:  Winter 2023 Semester"
         }
     ],
-    "02182023": [
+    "20230210": [
+        {
+            "date": "February 10, 2023",
+            "eventname": "Full Time OSAP Application Deadline - Fall/Winter & Winter Only"
+        },
+        {
+            "date": "February 10, 2023",
+            "eventname": "BSWD Application Deadline - Fall/Winter & Winter Only"
+        }
+    ],
+    "20230218": [
         {
             "date": "Feb 18th, 2023 to Feb 26th, 2023",
             "eventname": "Reading Week for all Faculties except Consecutive Ed (Feb 18-26)"
         }
     ],
-    "02202023": [
+    "20230220": [
         {
             "date": "Feb 20th, 2023",
             "eventname": "Family Day:  University Closed"
         }
     ],
-    "02242023": [
+    "20230224": [
         {
             "date": "Feb 24th, 2023",
             "eventname": "University Offices Closed"
         }
     ],
-    "03202023": [
+    "20230303": [
+        {
+            "date": "March 3, 2023",
+            "eventname": "OSAP Appeal Deadline - Fall/Winter & Winter Only"
+        }
+    ],
+    "20230304": [
+        {
+            "date": "March 4, 2023",
+            "eventname": "Part-Time OSAP Application Deadline - Winter"
+        }
+    ],
+    "20230320": [
         {
             "date": "Mar 20th, 2023 to Apr 21st, 2023",
             "eventname": "Education:  Practicum Block (Mar 20 - Apr 21)"
         }
     ],
-    "03312023": [
+    "20230331": [
         {
             "date": "Mar 31st, 2023",
             "eventname": "LAW:  Last Day of Classes Law Upper Year for Winter"
         }
     ],
-    "04032023": [
+    "20230401": [
+        {
+            "date": "April 1, 2023",
+            "eventname": "Continuation of Interest Free Status Deadline"
+        }
+    ],
+    "20230403": [
         {
             "date": "Apr 3rd, 2023 to Apr 17th, 2023",
             "eventname": "LAW:  Final Exams for Law Upper Year"
         }
     ],
-    "04052023": [
+    "20230405": [
         {
             "date": "Apr 5th, 2023",
             "eventname": "Last Day of Winter 2023 Classes  (excluding Law and Education)"
         }
     ],
-    "04062023": [
+    "20230406": [
         {
             "date": "Apr 6th, 2023",
             "eventname": "LAW:  Last Day of Classes Law 1L for Winter"
         }
     ],
-    "04072023": [
+    "20230407": [
         {
             "date": "Apr 7th, 2023",
             "eventname": "Good Friday:  University Closed"
         }
     ],
-    "04102023": [
+    "20230410": [
         {
             "date": "Apr 10th, 2023 to Apr 20th, 2023",
             "eventname": "Final Exams for Winter 2023 - Apr 10-20  (excluding Law and Education)"
@@ -329,19 +399,19 @@
             "eventname": "LAW:  Final Exams for Law 1L"
         }
     ],
-    "04182023": [
+    "20230418": [
         {
             "date": "Apr 18th, 2023",
             "eventname": "LAW:  Alternate Final Exam Day for Law (ASC permission required)"
         }
     ],
-    "04212023": [
+    "20230421": [
         {
             "date": "Apr 21st, 2023",
             "eventname": "Alternate Final Exam Day"
         }
     ],
-    "04242023": [
+    "20230424": [
         {
             "date": "Apr 24th, 2023 to May 7th, 2023",
             "eventname": "Nursing Year 3 Consolidation 2023 (NURS 3632)"
@@ -351,79 +421,105 @@
             "eventname": "Education:  Make-up Days / Portfolio Review / Advisory group reflection (Apr 24 - 28)"
         }
     ],
-    "05082023": [
+    "20230505": [
+        {
+            "date": "May 5, 2023",
+            "eventname": "Confirmation of Enrolment begins"
+        }
+    ],
+    "20230508": [
         {
             "date": "May 8th, 2023",
             "eventname": "First Day of Classes:  Full Summer (12 week) and Inter-Session (6 week) 2023"
+        },
+        {
+            "date": "May 8, 2023",
+            "eventname": "Deadline: Intersession ONLY"
         }
     ],
-    "05092023": [
+    "20230509": [
         {
             "date": "May 9th, 2023 to May 23rd, 2023",
             "eventname": "REVISED:  Nursing Year 2 Consolidation 2023 (NURS 2622)"
         }
     ],
-    "05152023": [
+    "20230515": [
         {
             "date": "May 15th, 2023",
             "eventname": "Fees Due:  Inter-Session / Summer Session 2023"
         }
     ],
-    "05222023": [
+    "20230522": [
         {
             "date": "May 22nd, 2023",
             "eventname": "Victoria Day:  University Closed"
         }
     ],
-    "05252023": [
+    "20230525": [
         {
             "date": "May 25th, 2023 to Jun 7th, 2023",
             "eventname": "REVISED: Nursing Year 1 Consolidation 2023 (NURS 1612)"
         }
     ],
-    "05302023": [
+    "20230530": [
         {
             "date": "May 30th, 2023 to Jun 2nd, 2023",
             "eventname": "Spring 2023 Convocation (May 30 - June 2) - Tentative"
         }
     ],
-    "06172023": [
+    "20230615": [
+        {
+            "date": "June 15, 2023",
+            "eventname": "Deadline: New OSAP applicants for Summer and Intersession"
+        }
+    ],
+    "20230617": [
         {
             "date": "Jun 17th, 2023 to Jun 25th, 2023",
             "eventname": "Reading Week for Full Summer 2023 (12 week) courses (Jun 18 - 26)"
         }
     ],
-    "06192023": [
+    "20230619": [
         {
             "date": "Jun 19th, 2023",
             "eventname": "Last Day of Inter-Session 2023 (6 week) Classes"
         }
     ],
-    "06222023": [
+    "20230622": [
         {
             "date": "Jun 22nd, 2023 to Jun 24th, 2023",
             "eventname": "Final Exams for Inter-Session 2023 (6 week):  June 22 - 24"
         }
     ],
-    "06262023": [
+    "20230626": [
         {
             "date": "Jun 26th, 2023",
             "eventname": "First Day of Classes:  Summer 2023 Session (6 week)"
         }
     ],
-    "06302023": [
+    "20230630": [
         {
             "date": "Jun 30th, 2023",
             "eventname": "Canada Day:  University Closed"
+        },
+        {
+            "date": "June 30, 2023",
+            "eventname": "Deadline: UWinAward Application/Profile"
         }
     ],
-    "08072023": [
+    "20230705": [
+        {
+            "date": "July 5, 2023",
+            "eventname": "Deadline: Summer ONLY"
+        }
+    ],
+    "20230807": [
         {
             "date": "Aug 7th, 2023",
             "eventname": "Civic Holiday:  University Closed"
         }
     ],
-    "08082023": [
+    "20230808": [
         {
             "date": "Aug 8th, 2023",
             "eventname": "Last Day of Summer Session 2023 (6 week) Classes"
@@ -433,7 +529,7 @@
             "eventname": "Make up date for Monday, June 30 Classes"
         }
     ],
-    "08092023": [
+    "20230809": [
         {
             "date": "Aug 9th, 2023",
             "eventname": "Last Day of Full Summer 2023 (12 week) Classes"
@@ -443,163 +539,163 @@
             "eventname": "Make up date for Monday, May 22 Classes"
         }
     ],
-    "08122023": [
+    "20230812": [
         {
             "date": "Aug 12th, 2023 to Aug 21st, 2023",
             "eventname": "Final Exams for Full Summer 2023 (12 week) and Summer (6 week) Session (Aug 12-21)"
         }
     ],
-    "09042023": [
+    "20230904": [
         {
             "date": "Sep 4th, 2023",
             "eventname": "Labour Day:  University Closed"
         }
     ],
-    "09072023": [
+    "20230907": [
         {
             "date": "Sep 7th, 2023",
             "eventname": "First Day of Fall 2023 Classes (excluding Law & Consecutive Ed)"
         }
     ],
-    "10072023": [
+    "20231007": [
         {
             "date": "Oct 7th, 2023 to Oct 15th, 2023",
             "eventname": "Reading Week (Oct 7 - 15), except JD Law"
         }
     ],
-    "10092023": [
+    "20231009": [
         {
             "date": "Oct 9th, 2023",
             "eventname": "Thanksgiving Day:  University Closed"
         }
     ],
-    "10142023": [
+    "20231014": [
         {
             "date": "Oct 14th, 2023",
             "eventname": "Fall 2023 Convocation - Tentative"
         }
     ],
-    "12062023": [
+    "20231206": [
         {
             "date": "Dec 6th, 2023",
             "eventname": "Last Day of Fall 2023 Classes  (excluding Law and Education)"
         }
     ],
-    "12092023": [
+    "20231209": [
         {
             "date": "Dec 9th, 2023 to Dec 20th, 2023",
             "eventname": "Final Exams for Fall 2023 - Dec 9 - 20  (excluding Law and Education)"
         }
     ],
-    "12212023": [
+    "20231221": [
         {
             "date": "Dec 21st, 2023",
             "eventname": "Alternate Final Exam Day"
         }
     ],
-    "01082024": [
+    "20240108": [
         {
             "date": "Jan 8th, 2024",
             "eventname": "First Day of Winter 2024 Classes"
         }
     ],
-    "02172024": [
+    "20240217": [
         {
             "date": "Feb 17th, 2024 to Feb 25th, 2024",
             "eventname": "Reading Week for all Faculties except Consecutive Ed (Feb 17 - 25)"
         }
     ],
-    "02192024": [
+    "20240219": [
         {
             "date": "Feb 19th, 2024",
             "eventname": "Family Day:  University Closed"
         }
     ],
-    "02232024": [
+    "20240223": [
         {
             "date": "Feb 23rd, 2024",
             "eventname": "University Offices Closed"
         }
     ],
-    "03292024": [
+    "20240329": [
         {
             "date": "Mar 29th, 2024",
             "eventname": "Good Friday:  University Closed"
         }
     ],
-    "04082024": [
+    "20240408": [
         {
             "date": "Apr 8th, 2024",
             "eventname": "Last Day of Winter 2024 Classes  (excluding Law and Education)"
         }
     ],
-    "04112024": [
+    "20240411": [
         {
             "date": "Apr 11th, 2024 to Apr 22nd, 2024",
             "eventname": "Final Exams for Winter 2024 - Apr 11-22  (excluding Law and Education)"
         }
     ],
-    "04232024": [
+    "20240423": [
         {
             "date": "Apr 23rd, 2024",
             "eventname": "Alternate Final Exam Day"
         }
     ],
-    "05062024": [
+    "20240506": [
         {
             "date": "May 6th, 2024",
             "eventname": "First Day of Classes:  Full Summer (12 week) and Inter-Session (6 week) 2024"
         }
     ],
-    "05202024": [
+    "20240520": [
         {
             "date": "May 20th, 2024",
             "eventname": "Victoria Day:  University Closed"
         }
     ],
-    "05282024": [
+    "20240528": [
         {
             "date": "May 28th, 2024 to May 31st, 2024",
             "eventname": "Spring 2024 Convocation (May 28 - 31) - Tentative"
         }
     ],
-    "06152024": [
+    "20240615": [
         {
             "date": "Jun 15th, 2024 to Jun 23rd, 2024",
             "eventname": "Reading Week for Full Summer 2024 (12 week) courses (Jun 15 - 23)"
         }
     ],
-    "06172024": [
+    "20240617": [
         {
             "date": "Jun 17th, 2024",
             "eventname": "Last Day of Inter-Session 2024 (6 week) Classes"
         }
     ],
-    "06202024": [
+    "20240620": [
         {
             "date": "Jun 20th, 2024 to Jun 22nd, 2024",
             "eventname": "Final Exams for Inter-Session 2024 (6 week):  June 20 - 22"
         }
     ],
-    "06242024": [
+    "20240624": [
         {
             "date": "Jun 24th, 2024",
             "eventname": "First Day of Classes:  Summer 2024 Session (6 week)"
         }
     ],
-    "07012024": [
+    "20240701": [
         {
             "date": "Jul 1st, 2024",
             "eventname": "Canada Day:  University Closed"
         }
     ],
-    "08052024": [
+    "20240805": [
         {
             "date": "Aug 5th, 2024",
             "eventname": "Civic Holiday:  University Closed"
         }
     ],
-    "08062024": [
+    "20240806": [
         {
             "date": "Aug 6th, 2024",
             "eventname": "Last Day of Summer Session 2024 (6 week) Classes"
@@ -609,7 +705,7 @@
             "eventname": "Make up date for Monday, July 1 Classes"
         }
     ],
-    "08072024": [
+    "20240807": [
         {
             "date": "Aug 7th, 2024",
             "eventname": "Last Day of Full Summer 2024 (12 week) Classes"
@@ -619,55 +715,55 @@
             "eventname": "Make up date for Monday, May 20 Classes"
         }
     ],
-    "08102024": [
+    "20240810": [
         {
             "date": "Aug 10th, 2024 to Aug 19th, 2024",
             "eventname": "Final Exams for Full Summer 2024 (12 week) and Summer (6 week) Session (Aug 10-19)"
         }
     ],
-    "09022024": [
+    "20240902": [
         {
             "date": "Sep 2nd, 2024",
             "eventname": "Labour Day:  University Closed"
         }
     ],
-    "09052024": [
+    "20240905": [
         {
             "date": "Sep 5th, 2024",
             "eventname": "First Day of Fall 2024 Classes (excluding Law & Consecutive Ed)"
         }
     ],
-    "10122024": [
+    "20241012": [
         {
             "date": "Oct 12th, 2024 to Oct 20th, 2024",
             "eventname": "Reading Week (Oct 12 - 20), except JD Law"
         }
     ],
-    "10142024": [
+    "20241014": [
         {
             "date": "Oct 14th, 2024",
             "eventname": "Thanksgiving Day:  University Closed"
         }
     ],
-    "10192024": [
+    "20241019": [
         {
             "date": "Oct 19th, 2024",
             "eventname": "Fall 2024 Convocation - Tentative"
         }
     ],
-    "12042024": [
+    "20241204": [
         {
             "date": "Dec 4th, 2024",
             "eventname": "Last Day of Fall 2024 Classes  (excluding Law and Education)"
         }
     ],
-    "12072024": [
+    "20241207": [
         {
             "date": "Dec 7th, 2024 to Dec 18th, 2024",
             "eventname": "Final Exams for Fall 2024 - Dec 7 - 18  (excluding Law and Education)"
         }
     ],
-    "12192024": [
+    "20241219": [
         {
             "date": "Dec 19th, 2024",
             "eventname": "Alternate Final Exam Day"
