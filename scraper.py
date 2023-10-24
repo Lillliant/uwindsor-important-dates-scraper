@@ -6,9 +6,9 @@ import urllib.request
 academic_url = "https://www.uwindsor.ca/registrar/events-listing"
 financial_url = "https://www.uwindsor.ca/studentawards/425/financial-aid-important-dates"
 important_dates = defaultdict(list) # for writing to JSON file
+filtered_dates = defaultdict(list) # for writing to JSON file
 
-out_filename = "dates.txt"
-f = open(out_filename, "w") # write to a txt file for reference
+f = open("dates.txt", "w") # write to a txt file for reference
 
 def update_url(index, url):
     ext = ["", "?page=1", "?page=2", "?page=3", "?page=4", "?page=5"]
@@ -70,7 +70,9 @@ def get_academic_dates(url):
             event_info["eventname"] = strip_extra(event.find_all("td", {"class": "views-field views-field-title"})[0].text.strip())
             
             f.write(date + " : " + event_info["eventname"] + "\n") # writes to txt
-            important_dates[id_for_short_date(date)].append(event_info)
+
+            if is_general_undergrad_event(event_info["eventname"]):
+                important_dates[id_for_short_date(date)].append(event_info)
 
 def get_financial_dates(url):
     soup = retrieve_soup(url)
@@ -85,13 +87,52 @@ def get_financial_dates(url):
         event_info["eventname"] = strip_extra(raw[1].text.strip())
 
         f.write(date + " : " + event_info["eventname"] + "\n") # writes to txt
-        important_dates[id_for_long_date(date)].append(event_info)
 
+        if is_general_undergrad_event(event_info["eventname"]):
+            important_dates[id_for_long_date(date)].append(event_info)
+
+def is_general_undergrad_event(event_name):
+    if not (event_name.find("nursing") != -1 or event_name.find("grad:") != -1 or event_name.find("concurrent ed:") != -1 or event_name.find("consecutive ed:") != -1 or event_name.find("law:") != -1):
+        return True
+    elif event_name.find("law") and not (event_name.find("excluding") or event_name.find("except")):
+        return True
+    else:
+        return False
+
+def find_semester_term(str):
+    if str.find("fall") ==  True:
+        return "Fall"
+    elif str.find("winter") == True:
+        return "Winter"
+    elif str.find("summer") == True:
+        return "summer"
+
+def organize_by_semester():
+    semester_events = {}
+    semester_term = ""
+    for date in important_dates:
+        semester_start = False
+        for event in date:
+            event_name = event.get("eventname").lowercase().find("first day")
+            if event_name != -1:
+                semester_start = True
+                semester_term = find_semester_term(event_name) + " " + event_name.findall("20[0-9][0-9]") # this will be good for a while (until year 2100)
+                break
+            
+        if semester_start != True:
+            semester_events.append(date)
+        else:
+            semester_events.append(date)
+            filtered_dates[semester_term].append(semester_events)
+            print("hi")
+
+#the start of scraping
 get_academic_dates(academic_url)
 get_financial_dates(financial_url)
+# organize_by_semester()
 
 f.close() # close txt file
 
 fp = open("important_dates.json", "w") # write to JSON
-json.dump(important_dates, fp, indent=4, sort_keys = True)
+json.dump(important_dates, fp, indent=4)
 fp.close()

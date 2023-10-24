@@ -1,90 +1,4 @@
 {
-    "20220831": [
-        {
-            "date": "Aug 31st, 2022",
-            "eventname": "GRAD: Deposit deadline for completion within Summer 2022"
-        }
-    ],
-    "20220901": [
-        {
-            "date": "September 1, 2022",
-            "eventname": "OSAP Confirmation of Enrollment Starts"
-        }
-    ],
-    "20220902": [
-        {
-            "date": "Sep 2nd, 2022",
-            "eventname": "Concurrent Ed:  Orientation for Years 1 / 3 / 4 (Music)"
-        }
-    ],
-    "20220904": [
-        {
-            "date": "Sep 4th, 2022 to Sep 10th, 2022",
-            "eventname": "Welcome Week 2022 (Sep 4 - 10)"
-        }
-    ],
-    "20220905": [
-        {
-            "date": "Sep 5th, 2022",
-            "eventname": "Labour Day:  University Closed"
-        }
-    ],
-    "20220906": [
-        {
-            "date": "Sep 6th, 2022",
-            "eventname": "Nursing Year 3 Clinical Orientation (NURS 3542)"
-        },
-        {
-            "date": "Sep 6th, 2022",
-            "eventname": "Nursing Year 4 Clinical Orientation (NURS 4562 & 4572)"
-        },
-        {
-            "date": "Sep 6th, 2022",
-            "eventname": "Consecutive Ed:  First Day of Fall Classes"
-        },
-        {
-            "date": "Sep 6th, 2022",
-            "eventname": "Law:  First Day of Fall Classes"
-        }
-    ],
-    "20220907": [
-        {
-            "date": "Sep 7th, 2022",
-            "eventname": "Nursing Year 2 Clinical Orientation  (NURS 2522)"
-        }
-    ],
-    "20220908": [
-        {
-            "date": "Sep 8th, 2022",
-            "eventname": "First Day of Fall 2022 Classes (excluding Law & Consecutive Ed)"
-        },
-        {
-            "date": "Sep 8th, 2022",
-            "eventname": "Nursing Year 1 Program Orientation"
-        }
-    ],
-    "20220909": [
-        {
-            "date": "Sep 9th, 2022",
-            "eventname": "GRAD: Deadline for public posting of final oral defenses for Fall 2022 graduation"
-        }
-    ],
-    "20220915": [
-        {
-            "date": "Sep 15th, 2022",
-            "eventname": "GRAD: Deadline for students to submit for Format checking, for Phase I and for Fall 2022 graduation"
-        }
-    ],
-    "20220916": [
-        {
-            "date": "Sep 16th, 2022",
-            "eventname": "Apply to Graduate at Fall 2022 Convocation:  Final deadline"
-        },
-        {
-            "date": "Sep 16th, 2022",
-            "eventname": "Last Day for Alternate Grading through Alternate Grade/Appeal method (Voluntarily Withdraw or Pass/No Pass) for Inter-Session/Summer 2022 courses (GRAD & UGRD)"
-        }
-    ],
     "20220919": [
         {
             "date": "Sep 19th, 2022",
@@ -107,12 +21,6 @@
             "eventname": "GRAD: Deposit deadline for Phase I and for Fall 2022 graduation"
         }
     ],
-    "20220930": [
-        {
-            "date": "September 30, 2022",
-            "eventname": "Law Student Award Applications Close"
-        }
-    ],
     "20221005": [
         {
             "date": "Oct 5th, 2022",
@@ -121,6 +29,12 @@
         {
             "date": "Oct 5th, 2022",
             "eventname": "GRAD: format checking deadline for Phase II"
+        }
+    ],
+    "20221006": [
+        {
+            "date": "Oct 6th, 2022",
+            "eventname": "Last Day to file an appeal of grades for Summer 2022 Graduate & Undergrad courses"
         }
     ],
     "20221008": [
@@ -149,26 +63,6 @@
         {
             "date": "October 14, 2022",
             "eventname": "OSAP Application Deadline -Fall ONLY"
-        }
-    ],
-    "20221031": [
-        {
-            "date": "October 31, 2022",
-            "eventname": "UWinAward Application/Profile Closes for majority of scholarships/awards"
-        },
-        {
-            "date": "October 31, 2022",
-            "eventname": "Continuation of Interest Free Status"
-        }
-    ],
-    "20221104": [
-        {
-            "date": "November 4, 2022",
-            "eventname": "OSAP Appeal Deadline - Fall Only"
-        },
-        {
-            "date": "November 4, 2022",
-            "eventname": "Part-Time OSAP Application Deadline - Fall"
         }
     ],
     "20221107": [
@@ -211,6 +105,12 @@
             "eventname": "LAW:  First Year Exams (Dec 7 - 14)"
         }
     ],
+    "20221208": [
+        {
+            "date": "Dec 8th, 2022",
+            "eventname": "GRAD: Deadline for students to submit for Format checking, for completion within Fall 2022"
+        }
+    ],
     "20221210": [
         {
             "date": "Dec 10th, 2022 to Dec 21st, 2022",
@@ -235,16 +135,14 @@
             "eventname": "LAW:  Alternate Final Exam Day for Law (ASC permission required)"
         }
     ],
-    "20221221": [
-        {
-            "date": "December 21, 2022",
-            "eventname": "Confirmation of Enrolment begins"
-        }
-    ],
     "20221222": [
         {
             "date": "Dec 22nd, 2022",
             "eventname": "Alternate Final Exam Day"
+        },
+        {
+            "date": "Dec 22nd, 2022",
+            "eventname": "GRAD: Deposit deadline for completion within Fall 2022"
         }
     ],
     "20221223": [
@@ -307,16 +205,6 @@
             "eventname": "Financial Drop Date:  Winter 2023 Semester"
         }
     ],
-    "20230210": [
-        {
-            "date": "February 10, 2023",
-            "eventname": "Full Time OSAP Application Deadline - Fall/Winter & Winter Only"
-        },
-        {
-            "date": "February 10, 2023",
-            "eventname": "BSWD Application Deadline - Fall/Winter & Winter Only"
-        }
-    ],
     "20230218": [
         {
             "date": "Feb 18th, 2023 to Feb 26th, 2023",
@@ -335,18 +223,6 @@
             "eventname": "University Offices Closed"
         }
     ],
-    "20230303": [
-        {
-            "date": "March 3, 2023",
-            "eventname": "OSAP Appeal Deadline - Fall/Winter & Winter Only"
-        }
-    ],
-    "20230304": [
-        {
-            "date": "March 4, 2023",
-            "eventname": "Part-Time OSAP Application Deadline - Winter"
-        }
-    ],
     "20230320": [
         {
             "date": "Mar 20th, 2023 to Apr 21st, 2023",
@@ -357,12 +233,6 @@
         {
             "date": "Mar 31st, 2023",
             "eventname": "LAW:  Last Day of Classes Law Upper Year for Winter"
-        }
-    ],
-    "20230401": [
-        {
-            "date": "April 1, 2023",
-            "eventname": "Continuation of Interest Free Status Deadline"
         }
     ],
     "20230403": [
@@ -421,12 +291,6 @@
             "eventname": "Education:  Make-up Days / Portfolio Review / Advisory group reflection (Apr 24 - 28)"
         }
     ],
-    "20230505": [
-        {
-            "date": "May 5, 2023",
-            "eventname": "Confirmation of Enrolment begins"
-        }
-    ],
     "20230508": [
         {
             "date": "May 8th, 2023",
@@ -467,12 +331,6 @@
             "eventname": "Spring 2023 Convocation (May 30 - June 2) - Tentative"
         }
     ],
-    "20230615": [
-        {
-            "date": "June 15, 2023",
-            "eventname": "Deadline: New OSAP applicants for Summer and Intersession"
-        }
-    ],
     "20230617": [
         {
             "date": "Jun 17th, 2023 to Jun 25th, 2023",
@@ -505,12 +363,6 @@
         {
             "date": "June 30, 2023",
             "eventname": "Deadline: UWinAward Application/Profile"
-        }
-    ],
-    "20230705": [
-        {
-            "date": "July 5, 2023",
-            "eventname": "Deadline: Summer ONLY"
         }
     ],
     "20230807": [
@@ -767,6 +619,90 @@
         {
             "date": "Dec 19th, 2024",
             "eventname": "Alternate Final Exam Day"
+        }
+    ],
+    "20220901": [
+        {
+            "date": "September 1, 2022",
+            "eventname": "OSAP Confirmation of Enrollment Starts"
+        }
+    ],
+    "20220930": [
+        {
+            "date": "September 30, 2022",
+            "eventname": "Law Student Award Applications Close"
+        }
+    ],
+    "20221031": [
+        {
+            "date": "October 31, 2022",
+            "eventname": "UWinAward Application/Profile Closes for majority of scholarships/awards"
+        },
+        {
+            "date": "October 31, 2022",
+            "eventname": "Continuation of Interest Free Status"
+        }
+    ],
+    "20221104": [
+        {
+            "date": "November 4, 2022",
+            "eventname": "OSAP Appeal Deadline - Fall Only"
+        },
+        {
+            "date": "November 4, 2022",
+            "eventname": "Part-Time OSAP Application Deadline - Fall"
+        }
+    ],
+    "20221221": [
+        {
+            "date": "December 21, 2022",
+            "eventname": "Confirmation of Enrolment begins"
+        }
+    ],
+    "20230210": [
+        {
+            "date": "February 10, 2023",
+            "eventname": "Full Time OSAP Application Deadline - Fall/Winter & Winter Only"
+        },
+        {
+            "date": "February 10, 2023",
+            "eventname": "BSWD Application Deadline - Fall/Winter & Winter Only"
+        }
+    ],
+    "20230303": [
+        {
+            "date": "March 3, 2023",
+            "eventname": "OSAP Appeal Deadline - Fall/Winter & Winter Only"
+        }
+    ],
+    "20230304": [
+        {
+            "date": "March 4, 2023",
+            "eventname": "Part-Time OSAP Application Deadline - Winter"
+        }
+    ],
+    "20230401": [
+        {
+            "date": "April 1, 2023",
+            "eventname": "Continuation of Interest Free Status Deadline"
+        }
+    ],
+    "20230505": [
+        {
+            "date": "May 5, 2023",
+            "eventname": "Confirmation of Enrolment begins"
+        }
+    ],
+    "20230615": [
+        {
+            "date": "June 15, 2023",
+            "eventname": "Deadline: New OSAP applicants for Summer and Intersession"
+        }
+    ],
+    "20230705": [
+        {
+            "date": "July 5, 2023",
+            "eventname": "Deadline: Summer ONLY"
         }
     ]
 }
